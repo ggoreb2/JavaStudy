@@ -1,6 +1,6 @@
 package collection;
 
-class PineApple {
+class PineApple       {
 	String company;
 	String color;
 }
